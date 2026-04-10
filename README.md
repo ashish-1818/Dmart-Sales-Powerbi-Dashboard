@@ -32,11 +32,7 @@ This project focuses on analyzing retail sales data using Power BI to uncover tr
 ## 📂 Files Included
 
 * dmart_sales_dashboard.pbix
-* dashboard.png (screenshot)
 
-## 📸 Dashboard Preview
-
-![Dashboard](dashboard.png)
 
 ## 🚀 Skills Demonstrated
 
